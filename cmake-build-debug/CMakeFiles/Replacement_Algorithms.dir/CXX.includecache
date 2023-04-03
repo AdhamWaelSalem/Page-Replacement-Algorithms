@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/adham/OneDrive/Desktop/Education/Term 7/Operating Systems/Projects/Replacement_Algorithms/main.cpp
+iostream
+-
+string
+-
+vector
+-
+queue
+-
+bits/stdc++.h
+-
+
